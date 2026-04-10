@@ -4,6 +4,14 @@
 print("¿Qué quieres que te recomiende hoy?")
 ans = int(input("1. Películas \n 2. Series \n 3. Videojuegos \n"))
 
+# Andrea: crear lista de pan dulce
+lista_pan = list()
+lista_pan.append("oreja")
+lista_pan.append("cochinito")
+lista_pan.append("ojo de buey")
+lista_pan.append("dona")
+lista_pan.append("concha")
+
 # Tarea 1 - Jorge: Crear lista de películas
 lista_peliculas = list()
 
