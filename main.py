@@ -6,6 +6,9 @@ ans = int(input("1. Películas \n 2. Series \n 3. Videojuegos \n"))
 
 # Tarea 1 - Jorge: Crear lista de películas
 lista_peliculas = list()
+lista_peliculas.append('terminator')
+lista_peliculas.append('terminator2')
+lista_peliculas.append('terminator3')
 
 # Tarea 2 - Pilar: Crear lista de libros
 lista_series = list()
