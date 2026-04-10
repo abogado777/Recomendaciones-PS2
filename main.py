@@ -17,6 +17,7 @@ lista_peliculas = list()
 lista_peliculas.append('terminator')
 lista_peliculas.append('terminator2')
 lista_peliculas.append('terminator3')
+print("probando cambios de Jorge")
 
 # Tarea 2 - Pilar: Crear lista de libros
 lista_series = list()
